@@ -11,7 +11,8 @@ was best as I was entering grade 12 next year with a full schedule, and he was l
 That said, for each of these classes we needed to make a website. Regarding the ones I had, I cannot access them since they were coded on Adobe Dreamweaver 2021 which now has a paywall upon logging in;
 however, Leo likely still has access to his and hopefully one day I can add it here for memory sake.
 
-The purpose of this being on github is to showcase that I did this to an employer. That said, I am not going to rehash anything that is already on my resume.
+The purpose of this being on github is to showcase to my employer proof that I have worked on this project. That said, I am not going to rehash anything that is already on my resume; I am not going to give much more expository here (you either have access to it in the projects and such pdf, or you can ask me personally).
+
 
 Electronics used were:
 BMP-280, MPU-6050 IMU, Lora32u4ii x 2,, SG90 servos, HC-12 x 2, NEO-6M GPS Module
