@@ -1,6 +1,6 @@
 Hey,
 
-this project was done when I was in highschool for a computer science class(Comp sci 30), and it was my second time ever working with anything Arduino. 
+this project was done when I was in highschool for a computer science class(Comp sci 30), and it was my second time ever working with anything Arduino—which I note, this was my second time coding.
 
 I completed this with a good friend and do not take full credit for anything here; I do note that we practically did everything together, with the exception of pressing buttons on our keyboards
 and soldering.
